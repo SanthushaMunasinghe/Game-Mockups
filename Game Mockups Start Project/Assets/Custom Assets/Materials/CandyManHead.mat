@@ -38,8 +38,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AdditionalPower: 0.5
-    - _FresnelPower: 1.37
+    - _AdditionalPower: 3.26
+    - _FresnelPower: 7.88
     - _Metallic: 0
     - _NoiseScale: 1000
     - _PushOut: 2
