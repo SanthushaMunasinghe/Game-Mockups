@@ -41,11 +41,11 @@ Material:
     - _AdditionalPower: 2.23
     - _FresnelPower: 3.37
     - _Metallic: 0
-    - _NoiseScale: 20
-    - _PushOut: 2.1
+    - _NoiseScale: 10
+    - _PushOut: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScrollSpeed: 0
+    - _ScrollSpeed: 0.25
     - _Smoothness: 0
     m_Colors:
     - _PrimaryColor: {r: 1, g: 0.34528297, b: 0.52223355, a: 1}

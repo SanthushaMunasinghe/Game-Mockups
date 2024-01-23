@@ -41,7 +41,7 @@ Material:
     - _AdditionalPower: 0.5
     - _FresnelPower: 1.37
     - _Metallic: 0
-    - _NoiseScale: 500
+    - _NoiseScale: 1000
     - _PushOut: 2
     - _QueueControl: 0
     - _QueueOffset: 0
