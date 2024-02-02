@@ -315,7 +315,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -559,6 +559,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedDisc (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -645,7 +650,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -699,6 +704,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedDisc (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -929,6 +939,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedDisc (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1590598227172815290, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1020,7 +1035,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -1193,6 +1208,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedDisc (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1590598227172815290, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1284,7 +1304,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -1448,6 +1468,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedDisc (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1590598227172815290, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -1742,6 +1767,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedDisc (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1809,6 +1839,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedDisc (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -1896,7 +1931,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -2034,6 +2069,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedDisc (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1590598227172815290, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2125,7 +2165,7 @@ PrefabInstance:
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.25
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
@@ -2179,6 +2219,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedDisc (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143575784528882982, guid: 36a994acb3e14e6498994fa1f17dc338,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6737116981176109137, guid: 36a994acb3e14e6498994fa1f17dc338,
         type: 3}
